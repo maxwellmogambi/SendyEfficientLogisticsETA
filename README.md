@@ -53,8 +53,9 @@ To run the project, follow these steps:
     
 3. Run the Jupyter Notebook:
    Open the Jupyter Notebook and execute the cells to preprocess the data, train the models, and evaluate their performance.
-4.Make Predictions:
-   Use the trained model to make predictions on new data.
+4. Make Predictions:
+   Use the trained model to make predictions onn new data.
+4.Make Predictions:Use the trained model to make predictions on new data.
 
 # Requirements
 The project requires the following libraries:
