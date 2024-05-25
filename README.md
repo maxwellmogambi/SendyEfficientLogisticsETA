@@ -71,4 +71,4 @@ pip install -r requirements.txt
 ```
 
 # Results
-The best model achieved a Mean Squared Error (MSE) of X and an R² score of Y. The predictions are saved in the submission.csv file, which contains the order IDs and the predicted delivery times.
+The best model achieved a Mean Squared Error (MSE) of 687.2462561760864 and an R² score of 0.42237558938084296. The predictions are saved in the submission.csv file, which contains the order IDs and the predicted delivery times.
