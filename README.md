@@ -55,7 +55,7 @@ To run the project, follow these steps:
    Open the Jupyter Notebook and execute the cells to preprocess the data, train the models, and evaluate their performance.
 4. Make Predictions:
    Use the trained model to make predictions onn new data.
-4.Make Predictions:Use the trained model to make predictions on new data.
+
 
 # Requirements
 The project requires the following libraries:
@@ -69,3 +69,5 @@ To install the dependencies, run:
  ```sh
 pip install -r requirements.txt
 
+#Results
+The best model achieved a Mean Squared Error (MSE) of X and an R² score of Y. The predictions are saved in the submission.csv file, which contains the order IDs and the predicted delivery times.
