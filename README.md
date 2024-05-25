@@ -44,8 +44,8 @@ To run the project, follow these steps:
 
 1. **Clone the repository**:
    ```sh
-   git clone <repository_url>
-   cd <repository_directory>
+   git clone <https://github.com/maxwellmogambi/SendyEfficientLogisticsETA>
+   
    
 2. Install the dependencies:
     ```sh
