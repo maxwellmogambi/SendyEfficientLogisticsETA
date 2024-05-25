@@ -12,7 +12,7 @@ This project aims to predict the delivery time from pickup to arrival for Sendy,
 6. [Usage](#usage)
 7. [Requirements](#requirements)
 8. [Results](#results)
-9. [Contributors](#contributors)
+
 
 # Introduction
 In this project, we develop a machine learning model to predict the time from pickup to arrival for delivery orders. The project involves data preprocessing, feature engineering, model training, and evaluation.
@@ -68,6 +68,7 @@ scikit-learn
 To install the dependencies, run:
  ```sh
 pip install -r requirements.txt
+```
 
-#Results
+# Results
 The best model achieved a Mean Squared Error (MSE) of X and an R² score of Y. The predictions are saved in the submission.csv file, which contains the order IDs and the predicted delivery times.
