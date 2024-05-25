@@ -46,15 +46,17 @@ To run the project, follow these steps:
    ```sh
    git clone <repository_url>
    cd <repository_directory>
+   
 2. **Install the dependencies:
     ```sh
     pip install -r requirements.txt
+    
 3. **Run the Jupyter Notebook:
 Open the Jupyter Notebook and execute the cells to preprocess the data, train the models, and evaluate their performance.
 4.Make Predictions:
 Use the trained model to make predictions on new data.
 
-#Requirements
+# Requirements
 The project requires the following libraries:
 
 pandas
@@ -65,3 +67,4 @@ scikit-learn
 To install the dependencies, run:
  ```sh
 pip install -r requirements.txt
+
